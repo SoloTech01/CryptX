@@ -1,2 +1,2 @@
-crpytography
+cryptography
 colorama
