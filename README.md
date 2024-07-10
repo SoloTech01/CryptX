@@ -1,10 +1,10 @@
 **CryptX is a cryptography tool written in python for encryption and decryption of texts and files**
 
-INSTALLATION OF TERMUX
+**INSTALLATION OF TERMUX**
 
 Go to https://f-droid.org/en/packages/com.termux/ and download termux
 
-INSTALLING CRYPTX IN TERMUX
+**INSTALLING CRYPTX IN TERMUX**
 
 INPUT THIS COMMANDS:
 
@@ -22,7 +22,7 @@ cd CryptX
 
 pip install -r requirements.txt
 
-RUNNING CRYPTX ON TERMUX
+**RUNNING CRYPTX ON TERMUX**
 
 cd CryptX
 
